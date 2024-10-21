@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeyItsSamir
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Kali Linux and Ethical Hacking
-- 💞️ I’m looking to collaborate on Capture The Flag
+- 💞️ I’m looking to collaborate on just about anything!
 - 📫 E-mail me at SargonSamirIsaacDinkha@outlook.com
 - 😄 Pronouns: He/Him
 
